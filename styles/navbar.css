@@ -1,0 +1,39 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	pading:  14px 0;
+	position: sticky;
+	top: 0;
+	background-color: rgb(240, 239, 234);
+	margin: 0px 50px 30px 50px ;
+	color: black;
+}
+
+.navbar img {
+	width: 75 px;
+}
+
+.nav-list {
+	list-style: none;
+}
+#title {
+	background-color: black;
+}
+
+.nav-item {
+	display: inline;
+	padding: 10px;
+	font-size: 20px ;
+}
+.button_fb {
+	text-decoration: none;
+	font-size: 25px;
+}
+.fa-facebook-square: hover {
+	color: rgba(51, 85, 255, 1.0);
+}
+
+.navbar a {
+	color: black;
+}

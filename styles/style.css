@@ -1,0 +1,46 @@
+@import url(banner.css);
+@import url(buttons.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url(navbar.css); 
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+@import url(collection.html);
+
+a {
+	text-decoration: none;
+}
+
+
+body {
+	margin: 0;
+
+}
+
+.backround {
+	background-color: rgb(240, 239, 234);
+}
+
+.titre {
+	text-align: center ;
+    font-family: 'Cinzel', serif;
+}
+
+
+.inscription {
+	padding:  8px 8px;
+	margin:  16px auto;
+	border-radius: 6px;
+	border: solid;
+	border-color: rgb(240, 239, 234);
+	color: black;
+	background-color: rgb(240, 239, 234);
+}
+
+.inscription:hover {
+	background-color: black;
+	color: rgb(240, 239, 234);
+}
+
+h2 {
+	padding: 10px 50px 20px;;
+}
